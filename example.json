@@ -1,0 +1,14 @@
+{
+  "some_object": [
+    some_collection
+    {
+      "attributes": "input_field",
+      [
+        some_other_collection
+        {
+          "more_attributes": "more_fields"
+        }
+      ]
+    }
+  ]
+}
